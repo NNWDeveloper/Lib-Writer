@@ -82,10 +82,7 @@ VARIANTA B – Spuštění přeložené verze (Nuitka):
 NNW Lib-Writer 1.0/
 │
 ├── main.py              hlavní soubor aplikace
-├── autosave.odt         automaticky ukládaný soubor
-├── icon.png             ikona aplikace (volitelné)
 ├── README.txt           tento soubor s dokumentací
-└── requirements.txt     seznam závislostí
 
 
 6) KLÁVESOVÉ ZKRATKY
