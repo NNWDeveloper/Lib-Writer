@@ -111,10 +111,10 @@ Změna barvy textu ........ Ctrl + K
 
 8) AUTOR A LICENCE
 ---------------------------------------------------------
-Autor:  NNW (Nikita Novák / NNW Software)
+Autor:  NNW Developer
 Verze:  1.0
 Rok:    2025
-Kontakt: nnwsoft@example.com
+Kontakt: admin@nnwdev.fun
 
 Licence: MIT License
 Tento projekt můžeš volně používat, upravovat i šířit,
